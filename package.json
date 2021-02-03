@@ -1,0 +1,15 @@
+{
+  "author": "Gigi",
+  "description": "\"game creation excercise\"",
+  "keywords": [
+    "\"jest\"",
+    "\"test\""
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "rockpaperscissors",
+  "scripts": {
+    "test": "\"jest\" \"jest --coverage"\
+  },
+  "version": "1.0.0"
+}
